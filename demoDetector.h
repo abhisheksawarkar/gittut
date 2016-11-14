@@ -19,17 +19,6 @@
 #include <opencv2/core/core.hpp>
 
 // DLoopDetector and DBoW2
-#include "DBoW2.h"
-#include "DLoopDetector.h"
-#include "DUtils.h"
-#include "DUtilsCV.h"
-#include "DVision.h"
-#include "helperfunctions.h"
-
-using namespace DLoopDetector;
-using namespace DBoW2;
-using namespace std;
-using namespace cv;
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
