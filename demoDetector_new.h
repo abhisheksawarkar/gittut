@@ -27,13 +27,6 @@
 #include "helperfunctions.h"
 #include <pthread.h>
 
-using namespace DLoopDetector;
-using namespace DBoW2;
-using namespace std;
-using namespace cv;
-
-pthread_mutex_t myMutex1;
-bool to_consider = false;
 
 struct for_libviso_relative_thread
 {
